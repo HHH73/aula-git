@@ -56,7 +56,6 @@ public class MenuPrincipalController implements Initializable {
     stage.show();
 }
 catch(IOException e){
-
 }
     }
 
